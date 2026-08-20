@@ -1,3 +1,5 @@
+![Google Sheet](https://github.com/Amang125/Order-Processing-Operations-MIS-Dashboard/blob/main/Screenshot%202026-08-20%20223805.png)
+
 # 📊 Order Processing & Operations MIS Dashboard
 
 An Excel-based **Order Processing & Operations MIS Dashboard** designed to simulate a real-world e-commerce operations environment.
@@ -37,6 +39,7 @@ The project is designed to demonstrate practical skills required for **Data Entr
 * Dashboard Development
 
 ---
+![Workbook Structure](https://github.com/Amang125/Order-Processing-Operations-MIS-Dashboard/blob/main/Screenshot%202026-08-20%20223931.png)
 
 ## 📁 Workbook Structure
 
@@ -99,6 +102,7 @@ Product master database containing:
 This table is used with XLOOKUP to automate product-related information in the order database.
 
 ---
+![MIS_Report](https://github.com/Amang125/Order-Processing-Operations-MIS-Dashboard/blob/main/Screenshot%202026-08-20%20223947.png)
 
 ### 4. MIS_Report
 
